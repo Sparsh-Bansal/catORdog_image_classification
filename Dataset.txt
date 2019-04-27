@@ -1,0 +1,8 @@
+Dataset consist of total 10000 images of cats and dogs which is splitted into 80% training set and 20% test set 
+Training set consist of total 8000 images of which 4000 of cats and 4000 of dogs. 
+Testing set consist of total 2000 images of which 1000 of cats and 1000 of dogs. 
+
+I have separated the training and testing set in the same directory with different folders of training and testing set with 
+respective images of cats and dogs inside each folder
+
+Dataset can be created manually by downloading the image data from the internet.
